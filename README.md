@@ -39,12 +39,12 @@ Derrotar as tropas inimigas e conquistar a honra perdida nos campos de batalha d
 A – Atacar<br>
 M – Mover<br>
 S – Sair<br>
-<br><br>
+<br>
 I – Cima<br>
 K – Baixo<br>
 J – Esquerda<br>
 L – Direita<br>
-<br><br>
+<br>
 C – Confirmar
 
 ---
