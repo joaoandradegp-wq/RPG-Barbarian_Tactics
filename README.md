@@ -171,6 +171,11 @@ Após isso, pressione qualquer tecla para sair.
 
 ---
 
+## 🙏 Créditos
+
 <p align="center">
-Copyright © 2004. Todos os direitos reservados.
+Projeto de Tecnofeira de 2004 por <b>Frederico Linhares</b> e <b>João Andrade</b><br><br>
+Contribuição e parceria fundamentais para este projeto.<br>
+  Belo Horizonte, MG - Brasil
 </p>
+
