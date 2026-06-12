@@ -8,6 +8,7 @@ Jogo de estratégia tática por turnos ambientado em dimensões místicas.
   <img src="https://img.shields.io/badge/Status-Proto%20Alpha-orange">
   <img src="https://img.shields.io/badge/Linguagem-C%2B%2B-blue">
   <img src="https://img.shields.io/badge/Versão%20Python-Em%20Desenvolvimento-yellow">
+  <img src="https://img.shields.io/badge/Language-PT--BR%20-orange">
 </p>
 
 ---
