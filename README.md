@@ -168,7 +168,9 @@ Após isso, pressione qualquer tecla para sair.
 
 <p align="center">
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/2e5fa608-ed24-446b-8f1d-9eb52345e22a" /><br>
-  <img width="400" alt="image" src="https://github.com/user-attachments/assets/e920baac-8548-4dae-a5e5-f4210678b9b8" />
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/e920baac-8548-4dae-a5e5-f4210678b9b8" /><br>
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/668e482f-e682-49cd-a342-8e764968791b" />
+
 
 </p>
 
