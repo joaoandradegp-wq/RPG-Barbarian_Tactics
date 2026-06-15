@@ -179,8 +179,9 @@ Após isso, pressione qualquer tecla para sair.
 ## 🙏 Créditos
 
 <p align="center">
-Projeto de Tecnofeira de 2004 por <b>Frederico Linhares</b> e <b>João Andrade</b><br><br>
+Projeto de Tecnofeira de 2004 por <b>Frederico Linhares</b> e <b>João Andrade</b><br>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/50b3bba7-ee22-4c64-8b32-b6f226470757" /><br>
 Contribuição e parceria fundamentais para este projeto.<br>
-  Belo Horizonte, MG - Brasil
+Belo Horizonte, MG - Brasil
 </p>
 
